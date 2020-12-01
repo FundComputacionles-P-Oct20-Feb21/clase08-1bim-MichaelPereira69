@@ -6,4 +6,6 @@
 6. Fin
 
 //La salida es?? 
-// 19 si es mayor de edad
+// 18 si es mayor de edad
+
+// Pero edad no tiene ningun valor
