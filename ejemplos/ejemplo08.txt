@@ -7,3 +7,10 @@
 8.  Fin Haga_Hasta (numero <= 1)
 9.  Escribir numero
 9.  Fin
+
+Se presentaria en pantalla los valores 
+
+//1
+
+//2
+
