@@ -7,3 +7,13 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+// aky si entraria al ciclo por que a partir de la linea 4 que dise 
+si 2 es menos igual a 2 entonces esto es VERDADERO
+por lo tanto el resultado serria 2
+ahora entra a un siclo repetitivo donde se le suma uno entonces va a dar 
+el resultado que fue 2 se le suma uno y daria 3 entonses este 3 ya no 
+entra al ciclo
+// 
+2
+//
+3
