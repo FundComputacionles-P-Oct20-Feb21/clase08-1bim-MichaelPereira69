@@ -7,3 +7,6 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+
+// se presentaria la bariable n dado el valor de 2 
+//se presentaria en pantalla  2
