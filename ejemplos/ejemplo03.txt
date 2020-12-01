@@ -6,7 +6,16 @@
 6.    sueldo <- 400  
 7.  Fin si
 8.  Si edad > 21 entonces
-9.    sueldo <- 500  
+9.    sueldo <-- 500  
 10.  Fin si
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
+
+
+//En este ejemplo la salida es
+----------------------------------
+//Aqui no hay salida por tal
+razon que el 21 esta fuera del siclo 
+
+//Aqui hay un error
+El dado <=20 es la base por lo tanto el 21 no entra en este ciclo 
