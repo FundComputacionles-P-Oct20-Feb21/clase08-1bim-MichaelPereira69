@@ -29,3 +29,6 @@
 29. Fin_Dependiendo_De
 30. Escribir "El resultado de la operación " + tipo + "es :" + resultado
 31. Fin
+
+// tanto como valor 1 y valor 2 no tienen un valor que los espesifica 
+por lo tanto no se va a presentar nada en pantalla y no ingresan en el siclo
