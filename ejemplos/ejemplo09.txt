@@ -1,3 +1,23 @@
+-------------------Miniespesificacion
+1. Inicio
+2. numero, i[0, n]
+4. Para(numero<--5, num<=25, 5) haga
+5. // empieza en 5, itera hasta que numero sea menor o igual a 25, incrementos de 5
+5.     Escribir numero
+8. Fin_Para 
+9. Fin
+---------------------Miniespesificacion 
+1. Inicio
+3. cadenaFinal, x(200)[{1-33},{a-z},{A-Z}, {/}]
+4. cadenaFinal <-- ""
+5. Para(i<--5, ((i MOD 5)==0) and (i <= 30), 5) haga
+6.     cadenaFinal <-- cadenaFinal + i + "\n"
+7. Fin_Para
+8. Escribir cadenaFinal
+9. Fin
+
+
+
 // Generar la serie
 // 5
 // 10
